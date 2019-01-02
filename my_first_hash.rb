@@ -1,8 +1,8 @@
 def my_hash
   my_hash = {
-    "rocket" = "Saturn V",
-    "capsule" = "Command Module",
-    "lander" = "Lunar Excursion Module"
+    "rocket" => "Saturn V",
+    "capsule" => "Command Module",
+    "lander" => "Lunar Excursion Module"
   }
 
 
